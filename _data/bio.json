@@ -22,10 +22,10 @@
     "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Java, ""C", "C++", "Javascript", "Typescript" ]
+      "keywords": [ "Python", "Java, "C", "C++", "Javascript", "Typescript" ]
     }
   ],
-  "education": [
+ "education": [
     {
       "institution": "University of Massachusetts, Amherst, MA",
       "area": "Computer Science",
@@ -35,16 +35,6 @@
       "courses": [
       ]
     },
-    {
-      "institution": "University of Michigan, Ann Arbor, MI",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "1976",
-      "endDate": "1981",
-      "courses": [
-      ]
-    }
-  ],
   "work": [
     {
       "company": "University of Hawaii",
