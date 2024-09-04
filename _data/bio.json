@@ -21,19 +21,15 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Python", "Java, ""C", "C++", "Javascript", "Typescript" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08",
       "endDate": "Present",
       "courses": [
       ]
@@ -41,69 +37,75 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Keiki Coders",
+      "position": "After School Coding Teacher",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-10",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Leads coding lessons alone or alongside other teachers.", 
+        "Monitors students learning progress.",
+        "Assists students with their coding and answers questions when necessary."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Bosscat Home Services",
+      "position": "Data Science Intern",
+      "website": "",
+      "startDate": "2024-01",
+      "endDate": "2024-06",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Wrote SQL queries for data analysis that extracted data from the database.",
+        "Analyzed data collected and created visuals with results.",
+        "Assisted in migration of main database, as well as training incoming interns."
+      ]
+    },
+    {
+      "company": "Common Grace",
+      "position": "Program Coordinator and After-School Club Leader",
+      "website": "",
+      "startDate": "2021-06",
+      "endDate": "2024-05",
+      "summary": "",
+      "highlights": [
+        "Created games and schedules for mentoring sessions at Niu Valley Middle School.",
+        "Ran mentoring sessions each week where the high schoolers mentored middle schoolers.",          "Connected and developed bonds with both mentees from Niu Valley Middle School and               mentors from Kaiser High School.", "Trained Kaiser high-school mentors in how to mentor          their assigned middle school mentee."
+      ]
+    },
+    {
+      "company": "Paul Brown Salon",
+      "position": "Front Desk Receptionist",
+      "website": "",
+      "startDate": "2021-09",
+      "endDate": "2023-11",
+      "summary": "",
+      "highlights": [
+        "Greet and check in guests at the door.", "Answer phone calls.", "Book appointments.",           "Check out guests when finished with services.", "Learned how to multitask, interact             with customers, and perform under intense pressure."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Grace Bible Church Honolulu",
+      "website": "https://gracehonolulu.org/",
+      "position": "Food Pantry Volunteer",
+      "startDate": "2024-09",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Packs food boxes with donated food items.",
+        "Distributes food boxes at Grace Bible Church Donation Center."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2023-Present",
+      "awarder": "UH Mānoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete       a rigorous high school curriculum with a minimum overall GPA of 3.6 at a Hawai'i public          school."
     }
   ],
   "references": [
