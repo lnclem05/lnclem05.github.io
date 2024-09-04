@@ -14,11 +14,10 @@
       { "network": "linkedin", "username": "lindsey clement", "url": "http://linkedin.com/in/lindseynclement" }
     ]
   },
-  "interests": [
+    "interests": [
+    { "name": "Cybersecurity" },
     { "name": "Software Engineering" },
-    { "name": "Educational Technology" },
-    { "name": "Sustainability" },
-    { "name": "Climate Change" }
+    { "name": "Business" }
   ],
   "skills": [
     {
