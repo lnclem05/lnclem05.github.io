@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "TestFile"
 date: 2024-09-03
-#published: true
+published: true
 labels:
   - Robotics
   - Arduino
