@@ -4,7 +4,7 @@ type: project
 image: img/testFile.png
 title: "TestFile"
 date: 2024-09-03
-published: false
+published: true
 labels:
   - Robotics
   - Arduino
