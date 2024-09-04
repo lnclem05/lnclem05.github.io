@@ -1,4 +1,3 @@
-
 {
   "basics": {
     "name": "Lindsey Clement",
@@ -14,60 +13,99 @@
       { "network": "linkedin", "username": "lindsey clement", "url": "http://linkedin.com/in/lindseynclement" }
     ]
   },
-    "interests": [
+  "interests": [
     { "name": "Cybersecurity" },
     { "name": "Software Engineering" },
     { "name": "Business" }
   ],
-     "skills": [
+  "skills": [
     {
       "name": "Languages and Frameworks",
       "keywords": [ "Python", "Java", "C", "C++", "Javascript", "Typescript" ]
     }
   ],
- "education": [
+  "education": [
     {
-      "institution": "University of Massachusetts, Amherst, MA",
-      "area": "Computer Science",
-      "studyType": "Ph.D.",
-      "startDate": "1983",
-      "endDate": "1990",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2027)",
+      "studyType": "B.S.",
+      "startDate": "2023-08",
+      "endDate": "Present",
       "courses": [
       ]
-    },
+    }
+  ],
   "work": [
     {
-      "company": "University of Hawaii",
-      "position": "Professor, Information and Computer Sciences",
-      "website": "https://www.ics.hawaii.edu",
-      "startDate": "1990",
+      "company": "Keiki Coders",
+      "position": "After School Coding Teacher",
+      "website": "",
+      "startDate": "2023-10",
       "endDate": "Present",
-      "summary": "Conduct teaching and research in software engineering",
+      "summary": "",
       "highlights": [
-        "Director, Collaborative Software Development Laboratory, 1990-present",
-        "Professor, 2001-present",
-        "Associate Chair, 2010-2016",
-        "Associate Professor, 1995-2010",
-        "Assistant Professor, 1990-1995"
+        "Leads coding lessons alone or alongside other teachers.", 
+        "Monitors students learning progress.",
+        "Assists students with their coding and answers questions when necessary."
+      ]
+    },
+    {
+      "company": "Bosscat Home Services",
+      "position": "Data Science Intern",
+      "website": "",
+      "startDate": "2024-01",
+      "endDate": "2024-06",
+      "summary": "",
+      "highlights": [
+        "Wrote SQL queries for data analysis that extracted data from the database.",
+        "Analyzed data collected and created visuals with results.",
+        "Assisted in migration of main database, as well as training incoming interns."
+      ]
+    },
+    {
+      "company": "Common Grace",
+      "position": "Program Coordinator and After-School Club Leader",
+      "website": "",
+      "startDate": "2021-06",
+      "endDate": "2024-05",
+      "summary": "",
+      "highlights": [
+        "Created games and schedules for mentoring sessions at Niu Valley Middle School.",
+        "Ran mentoring sessions each week where the high schoolers mentored middle schoolers.",          "Connected and developed bonds with both mentees from Niu Valley Middle School and               mentors from Kaiser High School.", "Trained Kaiser high-school mentors in how to mentor          their assigned middle school mentee."
+      ]
+    },
+    {
+      "company": "Paul Brown Salon",
+      "position": "Front Desk Receptionist",
+      "website": "",
+      "startDate": "2021-09",
+      "endDate": "2023-11",
+      "summary": "",
+      "highlights": [
+        "Greet and check in guests at the door.", "Answer phone calls.", "Book appointments.",           "Check out guests when finished with services.", "Learned how to multitask, interact             with customers, and perform under intense pressure."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "School of Engineering, Blekinge Institute of Technology",
-      "website": "https://www.bth.se/eng/",
-      "position": "Visiting Professor",
-      "startDate": "2006",
-      "endDate": "",
-      "summary": "Research in software engineering"
-    },
+      "organization": "Grace Bible Church Honolulu",
+      "website": "https://gracehonolulu.org/",
+      "position": "Food Pantry Volunteer",
+      "startDate": "2024-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Packs food boxes with donated food items.",
+        "Distributes food boxes at Grace Bible Church Donation Center."
+      ]
+    }
+  ],
+  "awards": [
     {
-      "organization": "Distributed Systems Technology Centre, University of Queensland",
-      "website": "https://www.uq.edu.au/",
-      "position": "Senior Research Fellow",
-      "startDate": "1997",
-      "endDate": "",
-      "summary": "Research in computer supported cooperative work"
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2023-Present",
+      "awarder": "UH Mānoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete       a rigorous high school curriculum with a minimum overall GPA of 3.6 at a Hawai'i public          school."
     }
   ],
   "references": [
@@ -76,4 +114,3 @@
     }
   ]
 }
-view rawbio.json hosted with ❤ by GitHub
