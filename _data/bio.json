@@ -19,14 +19,10 @@
     { "name": "Software Engineering" },
     { "name": "Business" }
   ],
-  "skills": [
+    "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Javascript", "React", "Flutter", "Dart" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+      "keywords": [ "Python", "Java, ""C", "C++", "Javascript", "Typescript" ]
     }
   ],
   "education": [
