@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: testFile.png
+image: img/testFile.png
 title: "TestFile"
 date: 2024-09-03
 published: true
