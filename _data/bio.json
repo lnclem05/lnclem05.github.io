@@ -19,7 +19,7 @@
     { "name": "Software Engineering" },
     { "name": "Business" }
   ],
-    "skills": [
+     "skills": [
     {
       "name": "Languages and Frameworks",
       "keywords": [ "Python", "Java, "C", "C++", "Javascript", "Typescript" ]
