@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
+title: "Bank Record Database"
 date: 2014
-published: false
+published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Database
+  - C
+  - Back-End Development
+summary: "Building a database of bank records"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
