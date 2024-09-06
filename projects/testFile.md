@@ -2,14 +2,15 @@
 layout: project
 type: project
 image: main/testFile.png
-title: "TestFile"
-date: 2024-09-03
+title: "Crafting My Code: Envisioning My Future in Software Engineering"
+date: 2024-09-05
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Software Engineering
+  - Cybersecurity
+  - Front-End Development
+  - Full-Stack Development
+summary: "This essay outlines my journey in software engineering, including my passion for front-end development, cybersecurity, and full-stack development."
 ---
 
 <div class="text-center p-4">
