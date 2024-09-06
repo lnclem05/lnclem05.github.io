@@ -1,99 +1,43 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Typescript Trials: My Journey and Thought on the Learning the Popular Coding Language"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2024-09-05
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Typescript
+  - WODs
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## Introduction to Typescript
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+When I first saw the daunting list of 142 Typescript lessons assigned in my software engineering class, a wave of nervousness washed over me. Unsure of what lay ahead, I embarked on my learning journey, and with an open mind, began learning Typescript.
 
-## What’s a smart question?
+Throughout the journey I deepened my understanding of the language, allowing me to appreciate its efficiency. Simultaneously during this time I began tackling Workout of the Day assignments in class, which not only tested my coding skills but also sharpened my quick thinking skills. 
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+## Decoding Typescript: Examining its Features 
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+My initial impression of Typescript is that it is relatively easy to learn and become comfortable with, especially with some prior programming experience. For those with previous coding knowledge, Typescrip’s structure and syntax are relatively intuitive, making it a fairly simple language to pick up on. When compared to other coding languages I am familiar with, like Java and Python, there are both similarities and differences. For instance, Typescript shares the same object-oriented nature as Java, which means it is possible to create complex data structures and models efficiently. At the same time, it also maintains the flexibility of Javascript, similar to how Python allows for code to be written quickly and dynamically. 
 
-```
-Q: python date of the previous month
+Throughout the process of learning Typescript, I learned about various features of the language such as the let, var, and const variable declarations - as well as the difference between each of them. Understanding when to use each helped make my code clearer and less likely to run into errors during compilation or run-time. Furthermore, I learned about destructuring which allows for the developer to make their code more precise and readable. 
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+## Assessing Typescript: A Software Engineering Perspective 
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+Typescript offers several significant advantages that enhance software development, particularly through its strongly typed system. By explicitly defining the types of variables, parameters, and return values, developers can catch mistakes early on, enhancing the clarity of the code and reducing costly errors down the line. For example, if a function expects a number and instead receives a string, Typescript will throw an error during compilation, catching the issue long before testing or any production development. 
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+However, there are also notable downsides presented by Typescript, such as the additional build time required for compilation and execution of the code. The process of compiling Typescript into Javascript involves checking all type information and transforming code, which can significantly add to the development time. Despite this, Typescript is well suited for larger-scale projects since its type system promotes better collaboration between developers. This system ensures that everyone in the team understands which data type is being used which reduces bugs and promotes productivity. 
 
-I have solved this trouble in bash with:
+## Training for Success: Analyzing Athletic Software & WODs
 
-echo $(date -d"3 month ago" "+%G%m%d")
+I’ve found the Workouts of the Day (WODs) to be an intriguing, yet stressful learning method that encourages me to think on my feet. While the WODs can be quite intimidating, they are not nearly as impossible as their reputation states. 
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
+The primary element of the WODs that makes them challenging is their time limit. The time constraint of the WODs sometimes limits my ability to think through each scenario - often leading to more generic coding solutions. I naturally require more time to thoroughly analyze problems, so the WOD learning style does not fully align with my personal learning preferences. However, I believe that this challenge will improve my quick decision making, which will ultimately prepare me for future professional situations. 
 
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
+## Final Thoughts
 
-Thanks for your help!
-```
+Reflecting on my learning journey through the process of working through the Typescript lessons, the process was both enlightening and challenging. Learning Typescript, with its type system and object-oriented approach, has greatly improved my approach to software development. 
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+Alongside these lessons, the process of completing the WODs has challenged me to think on my feet and pushed me to be creative in the way I approach various scenarios under a time constraint. These experiences have not only given me a solid foundation in Typescript, but have also given me a taste into the world of software development. I’m confident the foundation I have begun building will play a significant role in future projects I work on, as well as eventual professional endeavors. 
