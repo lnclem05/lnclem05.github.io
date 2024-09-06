@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bank-record.png
+image: img/bank-record.jpg
 title: "Bank Record Database"
 date: 2014
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "Building a database of bank records"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/bank-record.jpg">
 
 The record database project was created in my Program Structure 3 class (ICS 212) at UH Mānoa, a class in which I learned the C and C++ coding languages. This project creates a database the user can interact with. The user has the ability to add and delete bank records, print all records in the database, and find a particular record. This project was composed of four files: database.c, database.h, record.h, and user_interface.c. 
 
