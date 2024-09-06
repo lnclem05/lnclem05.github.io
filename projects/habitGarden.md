@@ -14,7 +14,7 @@ summary: "My progress in creating a habit-tracking app."
 ---
 
 <div class="d-flex justify-content-center p-4">
-  <img width="300px" img height="300px" src="../img/habitGarden/habit-photo-1.png" class="img-thumbnail" >
+  <img width="350px" img height="300px" src="../img/habitGarden/habit-photo-1.png" class="img-thumbnail" >
   <img width="300px" img height="300px" src="../img/habitGarden/habit-photo-2.png" class="img-thumbnail" >
 </div>
 
@@ -26,7 +26,7 @@ Habit Garden creates a virtual environment where users can track positive habits
 
 Below are pictures of the plant as it grows: 
 <div class="d-flex justify-content-center p-4">
-  <img width="300px" class="rounded float-start pe-4" src="../img/habitGarden/snake-plant-phase1.jpg">
+  <img width="350px" class="rounded float-start pe-4" src="../img/habitGarden/snake-plant-phase1.jpg">
   <img width="300px" class="rounded float-start pe-4" src="../img/habitGarden/snake-plant-phase3.jpg">
 </div>
 
