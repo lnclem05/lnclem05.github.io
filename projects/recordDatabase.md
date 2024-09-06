@@ -14,47 +14,24 @@ summary: "Building a database of bank records"
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The record database project was created in my Program Structure 3 class (ICS 212) at UH Mānoa, a class in which I learned the C and C++ coding languages. This project creates a database the user can interact with. The user has the ability to add and delete bank records, print all records in the database, and find a particular record. This project was composed of four files: database.c, database.h, record.h, and user_interface.c. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+In C programming, header files help keep code organized. Database.h is a header file that contains the function declarations for the methods used in database.c. These functions include addRecord, printAllRecords, findRecord, and deleteRecord.
 
-<hr>
+Database.c is a file written in C that implements the function declarations from the database.h file. It contains a set of functions that manage a database of bank records, each with account numbers, names, and addresses. The functions allow adding new records (addRecord), printing all records (printAllRecords), finding a record by account number (findRecord), and deleting a record by account number (deleteRecord). When one of the functions is called, database.c will print that function's name, and what record it was called on. The function addRecord can be seen below: 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+```cpp
+void addRecord(struct record ** record, int num, char name[], char address[]){
+    if (debugmode == 1){
+        printf("\n===============================================");
+        printf("\nstruct record** records");
+        printf("\naddRecord executed");
+        printf("\nnum == %d", num);
+        printf("\nname[] == %s", name);
+        printf("\naddress[] == %s", address);
+        printf("\n===============================================");
+    }
+}
+```
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
