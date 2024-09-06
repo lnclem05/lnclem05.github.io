@@ -1,12 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Crafting My Code: Envisioning My Future in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2024-09-05
+published: true
 labels:
-  - Engineering
+  - Software Engineering
+  - Cybersecurity
+  - Front-End Development
+  - Full-Stack Development
+summary: "This essay outlines my journey in software engineering, including my passion for front-end development, cybersecurity, and full-stack development."
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
