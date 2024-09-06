@@ -13,7 +13,7 @@ labels:
 summary: "My progress in creating a habit-tracking app."
 ---
 
-<div class="text-center p-4">
+<div class="d-flex justify-content-center p-4">
   <img width="300px" img height="400px" src="../img/habitGarden/habit-photo-1.png" class="img-thumbnail" >
   <img width="300px" img height="400px" src="../img/habitGarden/habit-photo-2.png" class="img-thumbnail" >
 </div>
