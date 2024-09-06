@@ -15,7 +15,7 @@ summary: "My friend and I are working together to create a habit-tracking app."
 
 <div class="text-center p-4">
   <img width="400px" src="../img/habitGarden/habit-photo-1.png" class="img-thumbnail" >
-  <img width="300px" src="../img/habit-photo-2.png" class="img-thumbnail" >
+  <img width="300px" src="../img/habitGarden/habit-photo-2.png" class="img-thumbnail" >
 </div>
 
 Habit Garden is an iOS app I’m currently developing with a friend. While I handle the coding, she’s creating all of the digital artwork for the app.
