@@ -18,14 +18,14 @@ summary: "My friend and I are working together to create a habit-tracking app."
   <img width="300px" src="../img/habit-photo-2.png" class="img-thumbnail" >
 </div>
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Habit Garden is an iOS app I’m currently developing with a friend. While I handle the coding, she’s creating all of the digital artwork for the app.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Before beginning this project, I had never worked with Swift, the coding language used for iOS development. I originally spent 1 week learning the basics, and have continued to learn additional concepts as I work on the app. While I typically learn new coding languages quickly, Swift has been a humbling challenge. Still, my excitement for building this app keeps me motivated and committed to learning.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Habit Garden creates a virtual environment where users can track positive habits. Each habit is linked to a plant that grows when the user completes the habit for the day. As the user stays consistent with their habit, their plant will grow. On the other hand, neglecting the habit for three days causes the plant to wilt. If the habit is not completed within five days, it will die. As my friend and I learn more and cultivate more ideas, we plan on adding additional features to Habit Garden.
 
-Here is some example code to illustrate Simple Schema use:
+Below are pictures of the plant as it grows: 
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+
+
+
