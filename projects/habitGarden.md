@@ -10,7 +10,7 @@ labels:
   - Software Engineering
   - iOS Development
   - Swift
-summary: "My friend and I are working together to create a habit-tracking app."
+summary: "My progress in creating a habit-tracking app."
 ---
 
 <div class="text-center p-4">
