@@ -4,7 +4,7 @@ type: essay
 title: "Crafting My Code: Envisioning My Future in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
-published: false
+published: true
 labels:
   - Software Engineering
   - Cybersecurity
