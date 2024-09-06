@@ -2,18 +2,21 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
-published: false
+title: "Habit Garden"
+date: 2024-09-05
+published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Full-Stack Development
+  - Software Engineering
+  - iOS Development
+  - Swift
+summary: "My friend and I are working together to create a habit-tracking app."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<div class="text-center p-4">
+  <img width="400px" src="../img/habit-photo-1.png" class="img-thumbnail" >
+  <img width="300px" src="../img/habit-photo-2.png" class="img-thumbnail" >
+</div>
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
