@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/bank-record.png
 title: "Bank Record Database"
 date: 2014
 published: true
