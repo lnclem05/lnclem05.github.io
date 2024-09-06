@@ -11,7 +11,6 @@ labels:
   - Back-End Development
 summary: "Building a database of bank records"
 ---
-
 <div class="text-center p-4">
   <img width="500px" img height = "400px" class="rounded float-start pe-4" src="../img/bank-record.jpg">
 </div>
