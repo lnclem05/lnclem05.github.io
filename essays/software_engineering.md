@@ -13,7 +13,7 @@ labels:
 summary: "This essay outlines my journey in software engineering, including my passion for front-end development, cybersecurity, and full-stack development."
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/software_engineer.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/software_developer.jpg">
 
 In the ever-evolving world of technology, the blend of creativity and technical proficiency forms the foundation of success. As I am navigating through the journey of being a computer science major at UH Mānoa, I have developed a variety of interests such as front-end development, as well as full-stack development. These interests have evolved into skills that enhance my proficiency and prepare me to thrive to enter the workforce. 
 
