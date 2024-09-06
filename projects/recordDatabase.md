@@ -12,10 +12,8 @@ labels:
 summary: "Building a database of bank records"
 ---
 
-<div class="text-center p-4" style="position: relative; width: 100%; height: auto; margin: 0; padding: 0;">
-  <img class="img-fluid" src="../img/bank-record.jpg" style="width: 100%; height: auto; display: block;">
-</div>
-
+<div class="text-center p-4">
+  <img width="400px" class="rounded float-start pe-4" src="../img/bank-record.jpg">
 </div>
 
 The record database project was created in my Program Structure 3 class (ICS 212) at UH Mānoa, a class in which I learned the C and C++ coding languages. This project creates a database the user can interact with. The user has the ability to add and delete bank records, print all records in the database, and find a particular record. This project was composed of four files: database.c, database.h, record.h, and user_interface.c. 
