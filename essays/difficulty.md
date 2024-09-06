@@ -22,14 +22,14 @@ In the ever-evolving world of technology, the blend of creativity and technical 
 
 ## Crafting Code and Cracking Security: My Goals in Software Engineering & Beyond
 
+My current interests in software engineering span over a range of fields, each interesting me in a unique way. At the forefront are mobile and front-end development, which allow me to showcase my creativity within the interactive and user-friendly interfaces that I create. 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+Beyond software engineering, the realm of cybersecurity also interests me, as it involves protecting vital company assets through ethical hacking and security measures- both of which are critical and constantly evolving in our digital world. As a puzzle lover, cybersecurity intrigues me because it involves solving a variety of complex problems that require an eye for detail and understanding of digital systems. 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+Full stack development is also something that appeals to me, offering the best of both worlds by allowing me to develop both client and server software. I have begun exploring these interests by engaging in a variety of activities such as working alongside a digital artist friend to build an iOS app and joining the Grey Hats cybersecurity club at my school. These experiences not only encourage my creative capabilities, but also ignite a deeper passion for exploring my software development interests further. 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
-## In the context of engineering
+## Mastering Tech: Building Hard and Soft Skills in Software Engineering
 
 Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
 
