@@ -15,8 +15,6 @@ summary: "This essay outlines my journey in software engineering, including my p
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
 In the ever-evolving world of technology, the blend of creativity and technical proficiency forms the foundation of success. As I am navigating through the journey of being a computer science major at UH Mānoa, I have developed a variety of interests such as front-end development, as well as full-stack development. These interests have evolved into skills that enhance my proficiency and prepare me to thrive to enter the workforce. 
 
 
@@ -46,5 +44,5 @@ Beyond specific roles, a principle I hold close to my heart is being a lifelong 
 
 ## Final Thoughts
 
-	Reflecting on my journey so far, it is clear that my aspirations are not just focussed on personal achievement, but also about building myself to be a strong contributor to the tech community. As I continue to establish my skills in front-end and full-stack development, my goal is to not only to build applications that are entertaining, but also that can be used by a wide variety of people. I believe I will be able to achieve these goals through my commitment to lifelong learning, as well as pursuit of mentorship and community within the tech industry. By nurturing both my technical abilities and professional skills, I foresee myself thriving in the world of tech as I pursue my aspirations. 
+Reflecting on my journey so far, it is clear that my aspirations are not just focussed on personal achievement, but also about building myself to be a strong contributor to the tech community. As I continue to establish my skills in front-end and full-stack development, my goal is to not only to build applications that are entertaining, but also that can be used by a wide variety of people. I believe I will be able to achieve these goals through my commitment to lifelong learning, as well as pursuit of mentorship and community within the tech industry. By nurturing both my technical abilities and professional skills, I foresee myself thriving in the world of tech as I pursue my aspirations. 
 
