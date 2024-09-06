@@ -16,9 +16,9 @@ summary: "This assignment entails building a database of Pokémon objects"
   <img width="400px" class="rounded float-start pe-4" src="../img/pokemon.webp">
 </div>
 
-The Pokémon database project was created in my Program Structure 3 class (ICS 212) at UH Mānoa, a class in which I learned the C and C++ coding languages. This project creates a database the user can interact with. This database holds Pokémon objects and, when prompted by the user, can add Pokémon to the database. Furthermore, it can read a list of Pokémon objects from a text file and import them into the database, as well as printing the current database to a text file. This project was comprised of four files that worked collaboratively: driver.c, iofunctions.c, iofunctions.h, and pokemon.h. 
+The Pokémon database project was created in my Program Structure 3 class (ICS 212) at UH Mānoa, a class in which I learned the C and C++ coding languages. This project creates a database the user can interact with. The database holds Pokémon objects and, when prompted by the user, can add Pokémon to the database. Furthermore, it can read a list of Pokémon objects from a text file and import them into the database, as well as printing the current Pokémo in the database to a text file. This project was composed of four files that worked collaboratively: driver.c, iofunctions.c, iofunctions.h, and pokemon.h. 
 
-The drier.c file was a file written in C that interacts with the user by prompting them to enter a Pokémon's level and name. If the user provides a valid level and name, the Pokémon is added to the database. If the input is incorrect, an error message appears. The program will keep asking the user to add up to 5 Pokémon, saving each one in the pokemonbank. After each entry, the user is asked if they want to add another Pokémon (by entering 0 to continue or -1 to stop). If there's any mistake in the input, the program will stop. Some code from the file can be seen below: 
+The driver.c file is a file written in C that interacts with the user by prompting them to enter a Pokémon’s level and name. If the user provides a valid level and name, the Pokémon is added to the database. If the input is incorrect, an error message appears. The program will keep asking the user to add up to 5 Pokémon, saving each one in the pokemonbank. After each entry, the user is asked if they want to add another Pokémon (by entering 0 to continue or -1 to stop). If there’s any mistake in the input, the program will stop. Some code from the file can be seen below:
 
 ```cpp
 while (stop != -1 && numpokemons < 5){
@@ -98,7 +98,7 @@ int readfile(struct pokemon pokearray[], int* num, char filename[])
 }
 
 ```
-In C programming, header files help keep code organized. The files iofunctions.h and pokemon.h are examples of header files The iofunctions.h file contains the function prototypes for the readfile and writefile functions. The pokemon.h file contains the pokemon structure that defines what a pokemon is, such as its level and name. Below is the code found in pokemon.h:
+In C programming, header files help keep code organized. The files iofunctions.h and pokemon.h are examples of header files. The iofunctions.h file contains the function prototypes for the readfile and writefile functions, while the pokemon.h file includes the pokemon structure that defines what a Pokémon is, such as its level and name. Below is the code found in pokemon.h:
 
 ```cpp
 struct pokemon
