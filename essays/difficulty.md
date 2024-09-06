@@ -31,24 +31,20 @@ Full stack development is also something that appeals to me, offering the best o
 
 ## Mastering Tech: Building Hard and Soft Skills in Software Engineering
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+Advancing in the fields of front-end and full-stack development demand a variety of both hard and soft skills. Some of the required hard skills include mastering languages and tools specific to each domain, such as Swift for iOS apps, or understanding the flow of code that makes up an application. 
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+Equally important, however, are the soft skills such as being a strong team contributor and being able to articulate ideas clearly. These skills are crucial for being able to collaborate successfully in tech environments. 
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+To maintain my skills and continue a lifelong learning mentality, I have a set of short term goals that will aid my skill development. They include obtaining relevant certifications to complement my skills, such as the Swift Certification. I also will look to enroll in courses and workshops that dive deeper into complex topics related to my interests. These goals will help me to create a well-rounded understanding of various software engineering topics, and ultimately allow me to be a knowledgeable professional in the tech industry. 
 
-## In the context of relationships
+## A Look to Tomorrow: My Vision for My Future 
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+Looking to the future, my long-term career aspirations in software engineering blend both my interests in front-end development and cybersecurity. I aspire to become an ethical hacker or penetration tester, a role that combines my love for problem-solving and technology. In my free time, I envision myself as an independent app developer, creating applications that can either simplify everyday life or provide entertainment. 
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
+Beyond specific roles, a principle I hold close to my heart is being a lifelong learner that commits to continually updating my skills and knowledge. Furthermore, recognizing the importance of community, I am committed to building strong professional relationships, seeking mentorship from those with more experience than me, and engaging within the tech community. These connections not only provide me with support, but also open doors to opportunities that align with my personal passions and career goals. 
 
-Relationships have always been difficult, and by nature will continue to be so.
 
-## Okay!
+## Final Thoughts
 
-So back to the original premise; why is being one of the club officers so difficult?
+	Reflecting on my journey so far, it is clear that my aspirations are not just focussed on personal achievement, but also about building myself to be a strong contributor to the tech community. As I continue to establish my skills in front-end and full-stack development, my goal is to not only to build applications that are entertaining, but also that can be used by a wide variety of people. I believe I will be able to achieve these goals through my commitment to lifelong learning, as well as pursuit of mentorship and community within the tech industry. By nurturing both my technical abilities and professional skills, I foresee myself thriving in the world of tech as I pursue my aspirations. 
 
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
