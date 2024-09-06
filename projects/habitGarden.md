@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/habitGarden/snake-plant-phase3.jpg
 title: "Habit Garden"
 date: 2024-09-05
 published: true
@@ -25,8 +25,8 @@ Before beginning this project, I had never worked with Swift, the coding languag
 Habit Garden creates a virtual environment where users can track positive habits. Each habit is linked to a plant that grows when the user completes the habit for the day. As the user stays consistent with their habit, their plant will grow. On the other hand, neglecting the habit for three days causes the plant to wilt. If the habit is not completed within five days, it will die. As my friend and I learn more and cultivate more ideas, we plan on adding additional features to Habit Garden.
 
 Below are pictures of the plant as it grows: 
-  <img width="600px" class="rounded float-start pe-4" src="../img/habitGarden/snake-plant-phase1.jpg">
-  <img width="600px" class="rounded float-start pe-4" src="../img/habitGarden/snake-plant-phase3.jpg">
+  <img width="300px" class="rounded float-start pe-4" src="../img/habitGarden/snake-plant-phase1.jpg">
+  <img width="300px" class="rounded float-start pe-4" src="../img/habitGarden/snake-plant-phase3.jpg">
 
 
 
