@@ -14,7 +14,7 @@ summary: "Building a database of bank records"
 <div class="text-center p-4">
   <img width="500px" img height = "400px" class="rounded float-start pe-4" src="../img/bank-record.jpg">
 </div>
-The record database project was created in my Program Structure 3 class (ICS 212) at UH Mānoa, a class in which I learned the C and C++ coding languages. This project creates a bank record database linked by a linked list that the user can interact with. The user has the ability to add and delete bank records, print all records in the database, and find a particular record. This project was composed of four files: database.c, database.h, record.h, and user_interface.c. 
+The record database project was created in my Program Structure 3 class (ICS 212) at UH Mānoa, a class in which I learned the C and C++ coding languages. This project creates a bank record database connected by a linked list that the user can interact with. The user has the ability to add and delete bank records, print all records in the database, and find a particular record. This project was composed of four files: database.c, database.h, record.h, and user_interface.c. 
 
 In C programming, header files help keep code organized. Record.h is a header file that contains the data structure of a record such as account number, name, address, and a pointer to the next record in the database. The record structure can be seen here:
 
@@ -46,7 +46,7 @@ void addRecord(struct record ** record, int num, char name[], char address[]){
 }
 ```
 
-User_interface.c is also written in C and interacts with the user to create a database of records linked together by a linked list. It allows users to input commands such as adding, printing, finding, and deleting records associated with account numbers. It contains the functions main as well as getaddress which returns the address typed by the user without any new line characters. The function's code can be seen below:
+User_interface.c is also written in C and interacts with the user to create a database of records connected by a linked list. It allows users to input commands such as adding, printing, finding, and deleting records associated with account numbers. It contains the functions main as well as getaddress which returns the address typed by the user without any new line characters. The function's code can be seen below:
 
 ```cpp
 void getaddress(char add[], int len){
