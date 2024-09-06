@@ -10,7 +10,7 @@ labels:
   - WODs
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/typescript.png">
 
 ## Introduction to Typescript
 
