@@ -27,7 +27,7 @@ Habit Garden creates a virtual environment where users can track positive habits
 Below are pictures of the plant as it grows: 
 <div class="d-flex justify-content-center p-4">
   <img width="350px" img height="200px" class="rounded float-start pe-4" src="../img/habitGarden/snake-plant-phase1.jpg">
-  <img width="300px" img height="200px" class="rounded float-start pe-4" src="../img/habitGarden/snake-plant-phase3.jpg">
+  <img width="300px" img height="220px" class="rounded float-start pe-4" src="../img/habitGarden/snake-plant-phase3.jpg">
 </div>
 
 
