@@ -13,7 +13,7 @@ summary: "This assignment entails building a database of Pokemon objects"
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/pokemon.webp" class="img-thumbnail" >
+  <img width="400px" class="rounded float-start pe-4" src="../img/software_developer.jpg">
 </div>
 This project, completed in my ICS212 class at UH Mānoa, creates a database the user can interact with. This database holds Pokémon objects and, when prompted by the user, can add and delete Pokémon to and from the database. Furthermore, it can read a list of Pokémon objects from a text file and import them into the database, as well as printing the current database to a text file.
 
