@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/habitGarden/snake-plant-phase1.jpg
+image: img/habitGarden/habit-photo-1.png
 title: "Habit Garden"
 date: 2024-09-05
 published: true
@@ -14,7 +14,7 @@ summary: "My friend and I are working together to create a habit-tracking app."
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/habit-photo-1.png" class="img-thumbnail" >
+  <img width="400px" src="../img/habitGarden/habit-photo-1.png" class="img-thumbnail" >
   <img width="300px" src="../img/habit-photo-2.png" class="img-thumbnail" >
 </div>
 
