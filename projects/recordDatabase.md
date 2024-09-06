@@ -14,7 +14,7 @@ summary: "Building a database of bank records"
 <div class="text-center p-4">
   <img width="500px" img height = "400px" class="rounded float-start pe-4" src="../img/bank-record.jpg">
 </div>
-The record database project was created in my Program Structure 3 class (ICS 212) at UH Mānoa, a class in which I learned the C and C++ coding languages. This project creates a bank record database connected by a linked list that the user can interact with. The user has the ability to add and delete bank records, print all records in the database, and find a particular record. This project was composed of four files: database.c, database.h, record.h, and user_interface.c. 
+The record database was a solo project I created in my Program Structure 3 class (ICS 212) at UH Mānoa, a class in which I learned the C and C++ coding languages. This project creates a bank record database connected by a linked list that the user can interact with. The user has the ability to add and delete bank records, print all records in the database, and find a particular record. This project was composed of four files: database.c, database.h, record.h, and user_interface.c. 
 
 In C programming, header files help keep code organized. Record.h is a header file that contains the data structure of a record such as account number, name, address, and a pointer to the next record in the database. The record structure can be seen here:
 
