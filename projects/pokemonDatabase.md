@@ -107,3 +107,4 @@ struct pokemon
     char name[20];
 };
 ```
+This project taught me how to read and write to text files, which is essential for managing data efficiently. It also sharpened my database skills, particularly in organizing records. Overall, the project strengthened my ability to work with both data handling and file systems in C, which are both critical elements of software development.
