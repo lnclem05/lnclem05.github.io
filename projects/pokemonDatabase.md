@@ -9,7 +9,7 @@ labels:
   - C
   - Database
   - Back-End Development
-summary: "This assignment entails building a database of Pokémon objects"
+summary: "Building a database of Pokémon objects"
 ---
 
 <div class="text-center p-4">
