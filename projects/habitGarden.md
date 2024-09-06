@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:/img/habitGarden/snake-plant-phase1.jpg
+image: /img/habitGarden/snake-plant-phase1.jpg
 title: "Habit Garden"
 date: 2024-09-05
 published: true
