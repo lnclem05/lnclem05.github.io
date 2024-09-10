@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/bank-record.jpg
 title: "Bank Record Database"
-date: 2014
+date: 2024-09-05
 published: true
 labels:
   - Database
