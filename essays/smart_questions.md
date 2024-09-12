@@ -25,7 +25,7 @@ labels:
 ## Context
    The individual asking the question provides relevant context by stating that the commit has not been pushed yet, which is crucial information for narrowing down the scope of potential solutions. It also assists the reader in further understanding the question so they are able to better answer it. This aligns with the advice from Raymond, *“Describe the problem’s symptoms, not your guesses”*, indicating that the asker should focus on the actual issue rather than speculations. 
 
- ## No Assumptions 
+## No Assumptions
   In the article, one of Raymond’s principles for asking a smart question is to, *“Describe the goal, not the step”*. This advice pushes for the question to focus on what the asker is trying to get across rather than presenting any assumptions on the issue. In this smart question asked on Stack Overflow, the user doesn’t offer guesses about the solution, but instead asks an open-ended yet specific question. This gives the viewers the flexibility to provide the correct approach without being limited by any assumptions implied from the asker. 
 
 ## Respect for the Community’s Time
