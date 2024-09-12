@@ -37,19 +37,19 @@ labels:
 ## Smart Responses
    The responses to this question on Stack Overflow are equally smart because the clear and concise question invited equally straightforward answers. The top answer on the post suggests using *git reset* to undo the last commit while preserving the changes in the working directory. This answer matches the clarity and directness of the question and provides a helpful solution to the problem. The responses reflect the smartness of the question itself due to its specific and relevant context.
 
- # The Not-So-Smart Question: Adding Ads to an iPhone App:
+# The Not-So-Smart Question: Adding Ads to an iPhone App:
 The [second question](https://stackoverflow.com/questions/21743110/how-to-add-advertisements-to-flash-app) asks, “I’ve been working on an iPhone app with Flash for a while…Now that the app is ready, I would like to add advertisements to it (the app will be free so I’ll gain something), but I don’t know how to do it. Can you help me?”. This question contains several issues that make it a poor example of asking a smart question. 
 
 ## Vagueness
 This question is vague and lacks specific information. The asker doesn’t clarify what type of ads they want to add, nor what platform they intend to use for advertisements. Without these specifics, it is difficult for potential responders to know how to answer this question. This not-so-smart question does not follow Eric Raymond’s advice to, *“Be precise and informative about your problem”*, making it harder for others to understand and help. 
 
 ## Lack of Context
-	This question mentions using Flash for the iPhone app, which is problematic since iOS does not support Flash. This confusing information leads readers to wonder if the user has the fundamental knowledge of the technologies involved, which ultimately makes answering the question more difficult. As Raymon notes in the article, *“Beware of asking the wrong question. If you ask one that is based on faulty assumptions, J. Random Hacker is quite likely to reply with a uselessly literal answer while thinking ‘Stupid question….’”*, which is directly demonstrated by the asker in this question.
+This question mentions using Flash for the iPhone app, which is problematic since iOS does not support Flash. This confusing information leads readers to wonder if the user has the fundamental knowledge of the technologies involved, which ultimately makes answering the question more difficult. As Raymon notes in the article, *“Beware of asking the wrong question. If you ask one that is based on faulty assumptions, J. Random Hacker is quite likely to reply with a uselessly literal answer while thinking ‘Stupid question….’”*, which is directly demonstrated by the asker in this question.
 
- ## No Research Effort Shown
-	The article *How to Ask Questions the Smart Way* advises, *“Try to find an answer by searching the Web, reading the manual, or asking a skilled friend”*, which the user of the not-so-smart question has clearly not done. The asker doesn’t mention any previous attempts to solve the problem or whether they have researched possible options. This gives the reader the impression that they expect the community to do all the work for them, which is a clear cut way to not receive a helpful answer since questions that lack respect will receive answers that equally lack respect. 
+## No Research Effort Shown
+The article *How to Ask Questions the Smart Way* advises, *“Try to find an answer by searching the Web, reading the manual, or asking a skilled friend”*, which the user of the not-so-smart question has clearly not done. The asker doesn’t mention any previous attempts to solve the problem or whether they have researched possible options. This gives the reader the impression that they expect the community to do all the work for them, which is a clear cut way to not receive a helpful answer since questions that lack respect will receive answers that equally lack respect. 
 
- ## Poor Grammar and Formatting
+## Poor Grammar and Formatting
 The question asked is full of inconsistent capitalization and grammatical errors, such as random capitalization of words like “For” and “Know”. This makes the question harder to read and suggests carelessness, which can discourage the reader from offering their opinion and assistance. Raymond warns that sloppy writing can reflect sloppy thinking in this line from his article, *“We’ve found by experience that people who are careless and sloppy writers are usually also careless and sloppy at thinking”*, as well as *“Answering questions for careless and sloppy thinkers is not rewarding; we’d rather spend our time elsewhere”*, when referring to those answering questions on Stack Overflow. 
 
 ## Why This Question is Not Smart
@@ -57,6 +57,29 @@ The asker of this question fails to demonstrate that they have made any effort i
 
 ## Unhelpful Responses
 Since the question is unclear and poorly formulated, it invites similarly unclear and poorly formulated responses. There is only one answer posted to this question, which provides a link to a gaming website that supposedly has an API for embedding ads, which the responder says has worked for them before. This whole response is only three sentences long, and is quite vague. Many responders have most likely skipped over this question, which illustrates the question’s lack of precision, and the less valuable answers that result from this. Raymond emphasizes the importance of creating a question that minimizes the time needed to answer it, *“The less of a time commitment you implicitly ask for, the more likely you are to get an answer from someone really good and really busy”*. This not-so-smart question fails in this regard, which has caused it to receive a vague response. 
+
+# Insights Gained 
+From analyzing both of these questions, I gained several insights into why asking smart questions is so important for software engineers. 
+
+## Respecting the Community’s Time
+When you ask smart, well-researched questions, you demonstrate respect for the time of those reading and answering your question. This increases its likelihood of receiving a helpful response in a timely manner. 
+
+## Clarity Leads to Better Responses
+A clear, precise question, like the smart question, invites clear and focused solutions. On the other hand, vague questions lead to vague and unhelpful responses. 
+
+## Research and Effort are Important 
+Showing that you have already put effort into trying to solve the problem on your own increases the chances of your question being answered. This demonstrates to the community that you are invested in your question, and not just looking for someone else to do all the thinking for you. This fosters an environment where both the asker and the user can learn from the interaction.
+
+## Formatting and Grammar Matter
+Sloppy grammar and formatting gives the impression that you didn’t put much effort into your question, which can lead to fewer lower-quality responses. Taking the time to put effort into your question shows care that is more likely to be reciprocated by the responders. 
+
+# Conclusion
+Asking smart questions is a crucial skill, one that is a part of being a software engineer. Well-formulated questions are not only more likely to be answered, but also to lead to more well thought out responses. On the other hand, poorly framed questions can frustrate the community and are less likely to receive helpful responses. By understanding the importance of clarity, context, and effort when asking a question, software engineers can better their problem-solving abilities by improving their ability to ask smart questions. 
+
+
+
+
+
 
 
 
