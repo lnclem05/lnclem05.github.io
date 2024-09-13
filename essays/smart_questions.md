@@ -77,7 +77,9 @@ Sloppy grammar and formatting gives the impression that you didn’t put much ef
 Asking smart questions is a crucial skill, one that is a part of being a software engineer. Well-formulated questions are not only more likely to be answered, but also to lead to more well thought out responses. On the other hand, poorly framed questions can frustrate the community and are less likely to receive helpful responses. By understanding the importance of clarity, context, and effort when asking a question, software engineers can better their problem-solving abilities by improving their ability to ask smart questions. 
 
 # References
-Anonymous. (2014, February 13). [How to add advertisements to flash app](https://stackoverflow.com/questions/21743110/how-to-add-advertisements-to-flash-app). *Stack Overflow*.  
+Anonymous. (2014, February 13). [How to add advertisements to flash app](https://stackoverflow.com/questions/21743110/how-to-add-advertisements-to-flash-app). *Stack Overflow*. 
+
+
 Anonymous. (2023, September 15). [How do I undo the most recent local commits in git?](https://stackoverflow.com/questions/927358/how-do-i- undo-the-most-recent-local-commits-in-git). *Stack  Overflow*.  
 
 Raymond, E. S. (2014). [How To Ask Questions The Smart Way](https://www.catb.org/esr/faqs/smart-questions.html). 
