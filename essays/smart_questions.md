@@ -78,13 +78,13 @@ Asking smart questions is a crucial skill, one that is a part of being a softwar
 
 # References
 Anonymous. (2014, February 13). How to add advertisements to flash app. *Stack Overflow*.  
-    https://stackoverflow.com/questions/21743110/how-to-add-advertisements-to-flash-app
+[https://stackoverflow.com/questions/21743110/how-to-add-advertisements-to-flash-app]
     
-Anonymous. (2023, September 15). How do I undo the most recent local commits in git? Stack  Overflow.   
-> [https://stackoverflow.com/questions/927358/how-do-i- undo-the-most-recent-local-commits-in-git]
+Anonymous. (2023, September 15). How do I undo the most recent local commits in git? *Stack  Overflow*.  
+[https://stackoverflow.com/questions/927358/how-do-i- undo-the-most-recent-local-commits-in-git]
 
-Raymond, E. S. (2014). How To Ask Questions The Smart Way. 
-> [https://www.catb.org/esr/faqs/smart-questions.html]
+Raymond, E. S. (2014). *How To Ask Questions The Smart Way*. 
+[https://www.catb.org/esr/faqs/smart-questions.html]
 
 
 
