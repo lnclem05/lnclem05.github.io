@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/smart-questions/stack-overflow.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/eslint-logo-animation.gif">
 
 # Introduction 
   When most people think of “coding standards” they think of trivial issues like how many spaces to indent, or where to place the curly braces. While those details might seem minor, coding standards play a huge role in software engineering. I personally believe that one of the easiest ways to improve the quality of one’s code is by simply improving their coding standards. 
