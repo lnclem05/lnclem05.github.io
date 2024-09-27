@@ -1,0 +1,45 @@
+---
+layout: project
+type: project
+image: img/pokemon.webp
+title: "Pokémon Database"
+date: 2024-09-25
+published: true
+labels:
+  - Binary Tree
+  - Database
+  - Data Algorithms
+summary: "Building a database of Hawaiian sayings and their English meanings"
+---
+
+<div class="text-center p-4">
+  <img width="400px" class="rounded float-start pe-4" src="../img/pokemon.webp">
+</div>
+
+For this project I created a Hawaiian-English saying database with a partner. It can take Hawaiian or English sayings from a user and searches through the database for that saying using a binary search on its AVL tree. 
+```cpp
+// recursive helper function to insert a new saying into the tree
+  private insertNode(node: AVLNode | null, saying: Saying): AVLNode {
+    if (node === null) {
+      return new AVLNode(saying);
+    }
+    const normalizedHawaiian = this.normalize(saying.hawaiian);
+    const normalizedHawaiianNode = this.normalize(node.saying.hawaiian);
+
+    if (normalizedHawaiian < normalizedHawaiianNode) {
+      const newNode = this.insertNode(node.left, saying);
+      node.left = newNode;
+    } else if (normalizedHawaiian > normalizedHawaiianNode) {
+      const newNode = this.insertNode(node.right, saying);
+      node.right = newNode;
+    } else {
+      // duplicate sayings are ignored
+      return node;
+    }
+
+    node.height =
+      Math.max(this.getHeight(node.left), this.getHeight(node.right)) + 1;
+
+    return this.balanceNode(node);
+  }
+```
