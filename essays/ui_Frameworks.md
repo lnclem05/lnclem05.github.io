@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Importance of Asking Smart Questions as a Software Engineer"
+title: "Reflecting on UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-08
 published: true
@@ -12,7 +12,8 @@ labels:
   - HTML
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/aloha all day.webp">
+<img width="600px" class="rounded float-start pe-4" src="../img/aloha all day.webp">
+*Webpage created using Bootstrap 5*
 
 # Introduction 
 User Interface (UI) frameworks such as Bootstrap 5 are widespread throughout the software development community. They offer developers pre-designed components and a structure that provides a faster and more efficient web page development process. While learning these frameworks can seem difficult at first, once grasped, their concepts such as increased development speed, maintainability, and consistency, make them well worth the initial investment of time and effort.  
