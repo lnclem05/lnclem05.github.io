@@ -33,4 +33,4 @@ Below is a screenshot of the Categories element on the Home page of the site. It
   <img width="1100px" img height = "400px" class="rounded mx-auto d-block" src="../img/categories.png">
 </div>
 
-This project taught me how to design and manage a database, create functioning user interfaces, and work collaboratively with partners to create a functioning website. It significantly improved my comfort level with working on full stack projects, and taught me many valuable skills. It has encouraged me to continue working on web applications and improving my skills further. [This website can be found here](https://campus-cooking.vercel.app/).
+This project taught me how to design and manage a database, create functioning user interfaces, and work collaboratively with partners to create a functioning website. It significantly improved my comfort level with working on full stack projects, and taught me many valuable skills. It has encouraged me to continue working on web applications and improving my skills further. The College Cooking website can be found [here](https://campus-cooking.vercel.app/).
