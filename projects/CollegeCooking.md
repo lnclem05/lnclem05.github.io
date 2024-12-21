@@ -30,7 +30,7 @@ Below is a screenshot of the Recipes page on the site. It showcases all of the r
 Below is a screenshot of the Categories element on the Home page of the site. It features various category buttons the user can click to take them to a page featuring recipes in the chosen category. 
 
 <div class="text-center p-4">
-  <img width="800px" img height = "400px" class="rounded mx-auto d-block" src="../img/categories.png">
+  <img width="1000px" img height = "400px" class="rounded mx-auto d-block" src="../img/categories.png">
 </div>
 
 This project taught me how to design and manage a database, create functioning user interfaces, and work collaboratively with partners to create a functioning website. It significantly improved my comfort level with working on full stack projects, and taught me many valuable skills. It has encouraged me to continue working on web applications and improving my skills further. This website can be found at https://campus-cooking.vercel.app/.
