@@ -1,7 +1,10 @@
 ---
 layout: project
 type: project
-image: img/aloha_all_day.png
+image: 
+  src: img/aloha_all_day.png
+  width: 200px
+  height: auto
 title: "Aloha All Day Webiste Replica"
 date: 2024-12-20
 published: true
