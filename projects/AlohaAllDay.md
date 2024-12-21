@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/aloha_all_day
+image: img/aloha_all_day.png
 title: "Aloha All Day Webiste Replica"
 date: 2024-12-20
 published: true
@@ -13,7 +13,7 @@ summary: "Replicating elements from the Aloha All Day Website"
 ---
 
 <div class="text-center p-4">
-  <img width="400px" class="rounded mx-auto d-block" src="../img/aloha_all_day.png">
+  <img width="600px" class="rounded mx-auto d-block" src="../img/aloha_all_day.png">
 </div>
 
 For this project, I was tasked with replicating elements from a pre-existing website. I chose to use the website for the brand Aloha All Day Hawaii. I replicated the website’s shipping banner, navbar, slogan banner, palm banner, and footer using the Next.js template. 
