@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/main.png
+image: img/logo.png
 title: "College Cooking Website"
 date: 2024-12-20
 published: true
