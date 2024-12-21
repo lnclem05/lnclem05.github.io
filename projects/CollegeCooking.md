@@ -11,10 +11,6 @@ labels:
   - Next.js
 summary: "Building a recipe database website"
 ---
-<div class="text-center p-4">
-  <img width="500px" img height = "400px" class="rounded float-start pe-4" src="../img/bank-record.jpg">
-</div>
-
 I built this website with some friends for a software engineering class in my sophomore year of college. We developed a website that contained a database of recipes that could be made in a college student’s dorm room, using cooking appliances such as a rice cooker, panini press, or microwave. The website allows users to create an account, add recipes to the database, search recipes, as well as view recipes uploaded by others. 
 
 While each of the members of our group contributed to both the front and back ends of our project, I mainly focused on the front end. I completed tasks such as creating the Recipes and Add Recipe pages, as well as creating functioning elements such as the search bar which searches the database for a key term, and the Categories elements which display a filtered database result depending on the category chosen. 
